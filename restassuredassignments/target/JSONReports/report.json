@@ -1,0 +1,60 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-08-26T12:53:17.412Z",
+        "line": 3,
+        "name": "Generating Report",
+        "description": "",
+        "id": "bdd-framework-+-testng-+-restassured;generating-report",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2002700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "set http path",
+            "match": {
+              "location": "parameterization.RestAssign8.set_http_path()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 369734600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "parameterize the values",
+            "match": {
+              "location": "parameterization.RestAssign8.parameterize_the_values()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Generate the report",
+            "match": {
+              "location": "parameterization.RestAssign8.generate_the_report()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "BDD Framework + TestNG + RestAssured",
+    "description": "",
+    "id": "bdd-framework-+-testng-+-restassured",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/parameterization.feature",
+    "tags": []
+  }
+]

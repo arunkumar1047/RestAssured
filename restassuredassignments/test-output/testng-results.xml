@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-26T18:30:52 IST" name="Default suite" finished-at="2021-08-26T18:30:55 IST" duration-ms="2416">
+    <groups>
+    </groups>
+    <test started-at="2021-08-26T18:30:52 IST" name="Default test" finished-at="2021-08-26T18:30:55 IST" duration-ms="2416">
+      <class name="restassuredassignments.RestAssign7$Ass7">
+        <test-method signature="print_the_response_in_the_console()[pri:0, instance:restassuredassignments.RestAssign7$Ass7@2fb3536e]" started-at="2021-08-26T18:30:52 IST" name="print_the_response_in_the_console" finished-at="2021-08-26T18:30:54 IST" duration-ms="1728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_the_response_in_the_console -->
+        <test-method signature="sets_http_request()[pri:0, instance:restassuredassignments.RestAssign7$Ass7@2fb3536e]" started-at="2021-08-26T18:30:54 IST" name="sets_http_request" finished-at="2021-08-26T18:30:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sets_http_request -->
+        <test-method signature="to_get_date_time()[pri:0, instance:restassuredassignments.RestAssign7$Ass7@2fb3536e]" started-at="2021-08-26T18:30:54 IST" name="to_get_date_time" finished-at="2021-08-26T18:30:55 IST" duration-ms="654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- to_get_date_time -->
+      </class> <!-- restassuredassignments.RestAssign7$Ass7 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
